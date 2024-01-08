@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi people 👋, I am Khatantuul! 
 
 <!--
 **Khatantuul/Khatantuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khatnabatbold/)
+
+Graduate student [@Northeastern University](https://www.northeastern.edu/) in Boston, MA
+
+**I am currently learning**
+- CSYE 6225 Network Structures and Cloud Computing
+- DAMG 7374 Construction and Deployment of Microservices
