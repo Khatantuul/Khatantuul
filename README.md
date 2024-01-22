@@ -21,4 +21,4 @@ Graduate student [@Northeastern University](https://www.northeastern.edu/) in Bo
 
 **I am currently learning**
 - CSYE 6225 Network Structures and Cloud Computing
-- DAMG 7374 Construction and Deployment of Microservices
+- DAMG 6210 Data Management and Database Design
