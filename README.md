@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 Graduate student [@Northeastern University](https://www.northeastern.edu/) in Boston, MA
 
 **I am currently learning**
-- CSYE 6225 Network Structures and Cloud Computing
+- CSYE 6230 Operating Systems
 - DAMG 6210 Data Management and Database Design
