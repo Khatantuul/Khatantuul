@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khatnabatbold/)
 
-Graduate student [@Northeastern University](https://www.northeastern.edu/) in Boston, MA
+Software Engineering graduate based in Boston, MA, with a strong foundation in web and mobile development, digital design, cloud computing (AWS, GCP), and networking (CCNA). Experienced in both start-up environments and enterprise organizations, bringing adaptability, a results-driven mindset, and strong communication skills. 
 
-**I am currently learning**
-- CSYE 6230 Operating Systems
-- DAMG 6210 Data Management and Database Design
+**Graduate level courses taken:**
+- Network Structures and Cloud Computing
+- Operating Systems
+- Application Engineering
+- Data Structures and Algorithms
+- Web design and UX
+- Database Design and Data Management
+- Advanced Big Data Indexing
+- Agile Software Development
