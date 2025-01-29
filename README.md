@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khatnabatbold/)
 
-Software Engineering graduate based in Boston, MA, with a strong foundation in web and mobile development, digital design, cloud computing (AWS, GCP). Experienced in both start-up environments and enterprise organizations, bringing adaptability, a results-driven mindset, and strong communication skills. 
+AWS Certified Developer based in Boston, MA, with a strong foundation in web and mobile development, digital design, cloud computing (AWS, GCP). Experienced in both start-up environments and enterprise organizations, bringing adaptability, a results-driven mindset, and strong communication skills. 
 
 **Graduate level courses taken:**
 - Network Structures and Cloud Computing
