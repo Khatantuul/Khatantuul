@@ -17,13 +17,3 @@ Here are some ideas to get you started:
 
 
 AWS Certified Developer based in Boston, MA, with a strong foundation in front-end and full-stack development, digital design, cloud computing (AWS, GCP). Experienced in both start-up environments and enterprise organizations, bringing adaptability, a results-driven mindset, and strong communication skills. 
-
-**Graduate level courses taken:**
-- Network Structures and Cloud Computing
-- Operating Systems
-- Application Engineering
-- Data Structures and Algorithms
-- Web design and UX
-- Database Design and Data Management
-- Advanced Big Data Indexing
-- Agile Software Development
